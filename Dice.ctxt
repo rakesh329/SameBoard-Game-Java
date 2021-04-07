@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dice
+comment0.text=\r\n\ class\ Dice\ used\ to\ generate\ a\ random\ value.\r\n\ @author\ (Namballa\ Rakesh)\r\n\ @version\ (v2,13/09/2020)\r\n
+comment1.params=
+comment1.target=Dice()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dice\r\n\ initialising\ instance\ variables\ diceValue\r\n
+comment2.params=
+comment2.target=int\ random()
+comment2.text=\r\n\ A\ random()\ method\ -\ To\ generate\ a\ random\ value\ in\ the\ range\ of\ 1\ to\ 6\r\n\ @return\ \ \ \ the\ randomly\ generated\ diceValue\r\n
+numComments=3
