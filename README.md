@@ -21,7 +21,7 @@ Complete projects is done in three different java files (Classes):
 
 #### Class Diagram
 
-![alt text](D:\Git\SimpleBoard-Game\Figure.JPG)
+![alt text](Figure.JPG)
 
 **1. Dice.java**
 
